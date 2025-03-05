@@ -1,10 +1,8 @@
 # AskMyNotes_LLM_RAG
 ## Objective
 
-Over time, I’ve collected a large number of lecture notes, technical documents, and study files. Existing note tools like Notion help with organization, but they still make it hard to quickly locate specific knowledge, especially when notes are long and cover multiple topics.
-
-This project is aim to build a personal note assistant powered by Retrieval-Augmented Generation (RAG). 
-
+Over time, I've collected a large number of lecture notes, technical documents, and study files. Existing note tools like Notion help with organization, but they still make it hard to quickly locate specific knowledge, especially when notes are long and cover multiple topics.
+This project aims to build a personal note assistant powered by Retrieval-Augmented Generation (RAG) to solve this problem. By semantically understanding your documents and queries, it provides more relevant answers than traditional keyword search.
 
 ##  Features
 
