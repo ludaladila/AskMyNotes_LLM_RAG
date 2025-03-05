@@ -2,6 +2,7 @@
 ## Objective
 
 Over time, I've collected a large number of lecture notes, technical documents, and study files. Existing note tools like Notion help with organization, but they still make it hard to quickly locate specific knowledge, especially when notes are long and cover multiple topics.
+
 This project aims to build a personal note assistant powered by Retrieval-Augmented Generation (RAG) to solve this problem. By semantically understanding your documents and queries, it provides more relevant answers than traditional keyword search.
 
 ##  Features
@@ -55,7 +56,7 @@ Then open your browser at `http://localhost:8501` to access the interface.
 - `chunk.py` - Text chunking algorithms
 - `embedding.py` - Text embedding functions
 - `vector.py` - Vector database interface
-- `pipe.py` - End-to-end pipeline (extraction, chunking, embedding)
+- `pipeline.py` - End-to-end pipeline (extraction, chunking, embedding)
 - `llm.py` - LLM interface for answering questions
 
 ## Module Details
