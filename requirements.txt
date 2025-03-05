@@ -1,0 +1,15 @@
+huggingface-hub==0.29.1
+numpy==1.26.4
+openai==1.65.3
+pandas==2.2.3
+parsel==1.10.0
+pinecone==6.0.1
+pinecone-client==0.0.7
+pinecone-plugin-interface==0.0.7
+PyMuPDF==1.25.3
+python-dotenv==1.0.1
+sentence-transformers==3.4.1
+service-identity==24.2.0
+streamlit==1.43.0
+tqdm==4.67.1
+
