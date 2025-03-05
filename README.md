@@ -55,6 +55,7 @@ Then open your browser at `http://localhost:8501` to access the interface.
 - `chunk.py` - Text chunking algorithms
 - `embedding.py` - Text embedding functions
 - `vector.py` - Vector database interface
+- `pipe.py` - End-to-end pipeline (extraction, chunking, embedding)
 - `llm.py` - LLM interface for answering questions
 
 ## Module Details
